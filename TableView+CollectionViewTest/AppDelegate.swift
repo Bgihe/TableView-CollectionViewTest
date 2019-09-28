@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  TableView+CollectionView
+//  TableView+CollectionViewTest
 //
 //  Created by apple on 2019/9/25.
 //  Copyright © 2019 apple. All rights reserved.

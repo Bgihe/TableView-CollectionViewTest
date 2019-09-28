@@ -1,6 +1,6 @@
 //
-//  TableView_CollectionViewUITests.swift
-//  TableView+CollectionViewUITests
+//  TableView_CollectionViewTestUITests.swift
+//  TableView+CollectionViewTestUITests
 //
 //  Created by apple on 2019/9/25.
 //  Copyright © 2019 apple. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class TableView_CollectionViewUITests: XCTestCase {
+class TableView_CollectionViewTestUITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
